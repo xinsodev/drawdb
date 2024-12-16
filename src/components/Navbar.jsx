@@ -42,29 +42,11 @@ export default function Navbar() {
             <a
               title="Jump to Github"
               className="px-2 py-2 hover:opacity-60 transition-all duration-300 rounded-full text-2xl"
-              href="https://github.com/drawdb-io/drawdb"
+              href="https://github.com/hoangdangtrungvn/drawdb"
               target="_blank"
               rel="noreferrer"
             >
               <i className="opacity-70 bi bi-github" />
-            </a>
-            <a
-              title="Follow us on X"
-              className="px-2 py-2 hover:opacity-60 transition-all duration-300 rounded-full text-2xl"
-              href="https://x.com/drawDB_"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <i className="opacity-70 bi bi-twitter-x" />
-            </a>
-            <a
-              title="Join the community on Discord"
-              className="px-2 py-2 hover:opacity-60 transition-all duration-300 rounded-full text-2xl"
-              href="https://discord.gg/BrjZgNrmR6"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <i className="opacity-70 bi bi-discord" />
             </a>
           </div>
         </div>

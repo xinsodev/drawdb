@@ -1336,15 +1336,6 @@ export default function ControlPanel({
         function: () => window.open("/shortcuts", "_blank"),
         shortcut: "Ctrl+H",
       },
-      ask_on_discord: {
-        function: () => window.open("https://discord.gg/BrjZgNrmR6", "_blank"),
-      },
-      report_bug: {
-        function: () => window.open("/bug-report", "_blank"),
-      },
-      feedback: {
-        function: () => window.open("/survey", "_blank"),
-      },
     },
   };
 

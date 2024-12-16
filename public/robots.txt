@@ -4,5 +4,3 @@ Allow: /
 Allow: /editor
 Allow: /shortcuts
 Allow: /templates
-Disallow: /bug-report
-Disallow: /survey
